@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/ctu_logo">
+        <file>logo_cvut_en.jpg</file>
+    </qresource>
+    <qresource prefix="/help">
+        <file>HELP.htm</file>
+        <file>pinout.jpg</file>
+    </qresource>
+</RCC>
